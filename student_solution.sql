@@ -1,5 +1,4 @@
--- =========================================
--- SQL Assignment: Create Course Table
+SQL Assignment: Create Course Table
 -- Name:
 -- Register Number:
 -- =========================================
